@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently studying in [National Cheng Kung University](https://www.ncku.edu.tw/)
 
-- 🌱 I’m currently learning **Ducker, React**
-
-- 🤝 I’m looking for **Software Engineer Intern**
+- 🤝 I’m looking for **Software Engineer**
 
 - 📫 How to reach me **patrick41513@gmail.com**
 
